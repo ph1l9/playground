@@ -1,2 +1,3 @@
 # playground
-Playground
+This repository is a simple playground.
+
